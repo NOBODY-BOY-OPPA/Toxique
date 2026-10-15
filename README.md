@@ -8,4 +8,4 @@ Variables d'environnement Vercel (Settings > Environment Variables) :
 Optionnel (remplacer les listes de modèles, séparés par des virgules) :
 GEMINI_MODELS, GROK_MODELS, OPENROUTER_MODELS
 
-Déploiement : `vercel --prod` dans ce dossier, ou import du repo GitHub.
+Déploiement : `vercel` dans ce dossier, ou import du repo GitHub.
